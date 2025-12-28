@@ -26,15 +26,21 @@ Cara Pakai
 1. Pastikan dataset ada di folder input/
 2. Jalankan training:
 
+```bash
 python train_mango_leaf_model.py
+```
 
 3. Lakukan evaluasi:
 
+```bash
 python 07_model_evaluation.py
+```
 
 4. Prediksi gambar baru:
 
+```bash
 python 10_predict_image.py
+```
 
 Catatan
 Dataset dan model besar tidak diikutkan di repo.
