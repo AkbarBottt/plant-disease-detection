@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+.env/
+
+# Model hasil training
+*.h5
+*.keras
+model/
+
+# Dataset / data besar
+dataset/
+data/
